@@ -53,6 +53,7 @@ server_address = ('', 80)
 httpd = HTTPServer (server_address, HelloHandler)
 httpd.serve_forever()
 # OUTPUT:
+![webserver1](https://github.com/suryamalarv/Web_server/assets/145742486/f27b721d-31a1-4d54-bb88-5e3079438bd2)
 
 # RESULT:
 
